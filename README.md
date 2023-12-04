@@ -1,14 +1,21 @@
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-# 최승영 포트폴리오
- - 개인적인 공부 및 포트폴리오 제출용
-
 # Project
 
+<a href="https://github.com/SY-Cpp/BankingSystem">BankingSystem </a>
+
+
+<a href="https://github.com/SY-Cpp/SocketServer">SocketServer</a> </br>
+<a href="https://github.com/SY-Cpp/SocketClient">SocketClient</a>
+
+
+<a href="https://github.com/SY-Cpp/Algorithm">Algorithm</a>
 
 # Stack
-### Languasge
- - Java
- - C++
-### SQL
- - PostgreSQL
+
+<div align="left">
+
+<img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
+
+</div>
