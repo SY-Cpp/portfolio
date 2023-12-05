@@ -1,13 +1,13 @@
 # Project
 
-<a href="https://github.com/SY-Cpp/BankingSystem">BankingSystem </a>
+<a href="https://github.com/SY-Cpp/BankingSystem">Toy Project:BankingSystem Clone Coding</a>
 
 
-<a href="https://github.com/SY-Cpp/SocketServer">SocketServer</a> </br>
-<a href="https://github.com/SY-Cpp/SocketClient">SocketClient</a>
+<a href="https://github.com/SY-Cpp/SocketServer">Toy Project:SocketServer</a> </br>
+<a href="https://github.com/SY-Cpp/SocketClient">Toy Project:SocketClient</a>
 
 
-<a href="https://github.com/SY-Cpp/Algorithm">Algorithm</a>
+<a href="https://github.com/SY-Cpp/Algorithm">LeetCode:Algorithm</a>
 
 # Stack
 
